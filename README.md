@@ -4,4 +4,4 @@
 
 [![Jaffenheimer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaffenheimer&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaffenheimer&layout=compact&langs_count=10&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaffenheimer&layout=compact&theme=dracula&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
